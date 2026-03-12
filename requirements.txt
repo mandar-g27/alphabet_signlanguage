@@ -1,8 +1,8 @@
-flask
-flask-cors
+flask==3.0.0
+flask-cors==4.0.0
 numpy==1.26.4
-opencv-python-headless
-mediapipe==0.10.30
+opencv-python-headless==4.11.0.86
+mediapipe==0.10.21
 tensorflow==2.19.0
 keras==3.13.2
-gunicorn
+gunicorn==23.0.0
