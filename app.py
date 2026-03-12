@@ -4,7 +4,7 @@ import json
 import base64
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import mediapipe as mp
 from mediapipe.tasks import python
 from mediapipe.tasks.python import vision
