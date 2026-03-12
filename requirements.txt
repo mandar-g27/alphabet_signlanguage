@@ -3,5 +3,6 @@ flask-cors
 numpy==1.26.4
 opencv-python-headless
 mediapipe==0.10.30
-tensorflow==2.15.0
+tensorflow==2.19.0
+keras==3.13.2
 gunicorn
