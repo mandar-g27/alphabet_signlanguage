@@ -4,4 +4,5 @@ numpy
 opencv-python
 mediapipe==0.10.30
 tensorflow==2.15.0
+keras==3.3.4
 gunicorn
