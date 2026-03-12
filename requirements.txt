@@ -1,0 +1,7 @@
+opencv-python==4.11.0.86
+numpy==1.26.4
+Flask==3.0.0
+Flask-Cors==4.0.0
+keras==3.13.2
+mediapipe==0.10.21
+tensorflow==2.19.0
